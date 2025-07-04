@@ -13,6 +13,8 @@ const Footer = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  
+
   return (
     <footer className="bg-black text-gray-300 pt-12 pb-6 relative z-10">
       {/* Main Footer Grid */}
